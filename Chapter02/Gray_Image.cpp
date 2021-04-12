@@ -6,17 +6,21 @@ using namespace std;
 
 int main() {
   
-  mat src = imread("c:/sea.jpg", imread_color);
-  if (src.empty()) { cout << "not read image" << endl; }
+  Mat src = imread("c:/sea.jpg", IMREAD_COLOR);
+  
+  if (src.empty()) { 
+    cout << "not read image" << endl; 
+  }  //예외처리
+  
   imshow("sea_src", src);
   
-  mat gray, edge, output;
+  Mat gray, edge, output;
   
-  cvtcolor(src, gray, cv_bgr2gray);
+  cvtColor(src, gray, CV_BGR2GRAY); //gray톤으로 이미지 변경
   imshow("sea_gray", gray);
   imwrite("c:/sea_gray.jpg", gray);
   
-  waitkey(0);
+  waitKey(0);
   return 0;
 
 }
