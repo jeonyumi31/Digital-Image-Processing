@@ -21,15 +21,12 @@ int main() {
 		cout << key << " ";
 		
 		if (key == 'q') break;
-		
 		else if (key == 'a') {
 			src -= 50;
 		}
-		
 		else if (key == 'b') {
 			src += 50;
 		}
-		
 		imshow("sea_bright_2", src);
 	}
 	return 0;
