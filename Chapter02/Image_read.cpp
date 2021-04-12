@@ -5,15 +5,15 @@ using namespace cv;
 using namespace std;
 
 int main() {
-	mat image;
-	image = imread("c:/sea.jpg", imread_color); //컬러영상으로 이미지 불러오기
+	Mat image;
+	image = imread("c:/sea.jpg", IMREAD_COLOR); //컬러영상으로 이미지 불러오기
 
 	if (image.empty()) {
 		cout << "not read image" << endl; //불러온 이미지 영상이 null값인 경우 출력
 	}
 	
 	imshow("sea_image", image); //불러온 이미지 출력
-	waitkey(0);
+	waitKey(0);
 
 	return 0;
 }
