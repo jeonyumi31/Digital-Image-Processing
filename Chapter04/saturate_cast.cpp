@@ -1,3 +1,5 @@
+//4장 - 화소처리
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
@@ -36,7 +38,7 @@ int main() {
 		for (int c = 0; c < image.cols; c++) {
 			for (int ch = 0; ch < 3; ch++) {
 				int output = contrastEnh(image.at<Vec3b>(r,c)[ch], x1, y1, x2, y2);
-				oimage.at<Vec3b>(r,c)[ch] = saturate_cast<uchar>(output);	  //최대&최소값을 제한하여 밝기를 조절하는 메소드
+				oimage.at<Vec3b>(r,c)[ch] = saturate_cast<uchar>(output);	  //최대&최소값을 제한하여 밝기를 조절하는 메소드 - 오버플로우 방지
 			}
 		}
 	}
