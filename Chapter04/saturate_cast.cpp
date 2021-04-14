@@ -1,4 +1,5 @@
 //4장 - 화소처리
+//선형 콘트라스트 확대
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
