@@ -1,6 +1,7 @@
 //4장 - 화소처리
 
 //감마보정
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
