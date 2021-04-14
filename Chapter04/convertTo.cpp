@@ -1,6 +1,6 @@
 //4장 - 화소처리
-
 //밝기 및 콘트라스트(대비) 조정
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
