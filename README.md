@@ -8,4 +8,3 @@
 .
 .
 
-<img width="500" alt="3차 과제_평활화 히스토그램" src="https://user-images.githubusercontent.com/57698484/114960856-d4fa5c00-9ea2-11eb-8271-419082779a7c.png">
