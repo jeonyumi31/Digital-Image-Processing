@@ -1,3 +1,6 @@
+//1차 과제
+//트랙바 생성 및 원그리기 과제
+
 Mat img;
 int red, green, blue;
 int drawing = false;
