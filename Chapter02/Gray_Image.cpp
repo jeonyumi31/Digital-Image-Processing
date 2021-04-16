@@ -17,6 +17,7 @@ int main() {
   Mat gray, edge, output;
   
   cvtColor(src, gray, CV_BGR2GRAY); //gray톤으로 이미지 변경
+  
   imshow("sea_gray", gray);
   imwrite("c:/sea_gray.jpg", gray);
   
