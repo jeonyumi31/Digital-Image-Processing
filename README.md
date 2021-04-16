@@ -8,7 +8,7 @@
 .
 .
 
-###### :large_blue_diamond: 4장 <화소처리> 실습코드 실행화면
+###### :heavy_check_mark: 4장 <화소처리> 실습코드 실행화면
 
 
 ###### https://github.com/jeonyumi31/Digital-Image-Processing/issues/1
