@@ -1,4 +1,4 @@
-# Digital-Image-Processing
+# Digital-Image-Processing :turtle:
 
 **OpenCV C++로 배우는 디지털 영상처리**
 
