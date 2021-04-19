@@ -1,4 +1,4 @@
-//5장 = 히스토그램 처리
+//5장 - 히스토그램 처리
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
