@@ -13,9 +13,9 @@ int main()
 	imshow("src", src);
 
 	for (int i = 1; i < 61; i = i + 2) {
-		GaussianBlur(src, dst, Size(i, i), 0, 0); //가우시안 필터링으로 블러 구현
+		GaussianBlur(src, dst, Size(i, i), 0, 0); //가우시안블러로 블러 구현
 		imshow("Gaussian filter", dst);
-		waitKey(1000);
+		waitKey(1000);	//시간이 지남에 따라 천천히 가우시안블러 적용
 	}
 	return 0;
 }
