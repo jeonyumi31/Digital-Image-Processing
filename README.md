@@ -12,5 +12,8 @@
 ###### 5장 <히스토그램 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/3
 ###### 6장 <공간 필터링> https://github.com/jeonyumi31/Digital-Image-Processing/issues/4
 
+.
+.
+.
 
 ##### ☑️ 레포트과제 실행화면
