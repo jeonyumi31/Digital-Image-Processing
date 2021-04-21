@@ -6,8 +6,8 @@
 .
 .
 .
-##### 코드 실행화면
-###### :white_check_mark: 2장 <OpenCV 개요> https://github.com/jeonyumi31/Digital-Image-Processing/issues/2
-###### :white_check_mark: 4장 <화소 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/1
-###### :white_check_mark: 5장 <히스토그램 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/3
-###### :white_check_mark: 6장 <공간 필터링> https://github.com/jeonyumi31/Digital-Image-Processing/issues/4
+##### :heavy_check_mark: 코드 실행화면
+###### 2장 <OpenCV 개요> https://github.com/jeonyumi31/Digital-Image-Processing/issues/2
+###### 4장 <화소 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/1
+###### 5장 <히스토그램 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/3
+###### 6장 <공간 필터링> https://github.com/jeonyumi31/Digital-Image-Processing/issues/4
