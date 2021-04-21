@@ -1,4 +1,4 @@
-# 📑 Digital-Image-Processing
+# 📑 Digital Image Processing
 
 ## 영상처리 강의 中 실습코드 / 개인과제 / 팀프로젝트 자료
 
