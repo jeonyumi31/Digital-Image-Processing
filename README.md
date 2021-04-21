@@ -6,7 +6,7 @@
 .
 .
 
-##### ✔️ 실습코드 실행화면
+##### ✔️ 예제코드 실행화면
 ###### 2장 <OpenCV 개요> https://github.com/jeonyumi31/Digital-Image-Processing/issues/2
 ###### 4장 <화소 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/1
 ###### 5장 <히스토그램 처리> https://github.com/jeonyumi31/Digital-Image-Processing/issues/3
